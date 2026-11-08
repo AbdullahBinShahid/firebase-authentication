@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552258419979",
+    "project_id": "smit-eeafc",
+    "storage_bucket": "smit-eeafc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552258419979:android:45d8ec0ff80448106b760e",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbrts7xjaaqA2CSk7wZQSb0YNLj-4qME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
